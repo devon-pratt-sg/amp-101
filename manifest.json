@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "French Bulldog Facts",
+  "version": "1.0",
+  "description": "Learn interesting facts about French Bulldogs!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "French Bulldog Facts"
+  },
+  "permissions": []
+}
